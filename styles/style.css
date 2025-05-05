@@ -1,0 +1,21 @@
+.panda{
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+input::placeholder{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+#upper{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 3px;
+    
+}
+
+
